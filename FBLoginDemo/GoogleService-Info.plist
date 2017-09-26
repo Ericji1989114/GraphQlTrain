@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>886250156616-c0k8mo5vjkt18klm0o75ehtvq9g0bmp0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.886250156616-c0k8mo5vjkt18klm0o75ehtvq9g0bmp0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFOPbbmY_aT-kREXevnDCimlnaX3SJnBI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>886250156616</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Ericji.FBLoginDemo</string>
+	<key>PROJECT_ID</key>
+	<string>fblogindemo-9ac31</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fblogindemo-9ac31.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:886250156616:ios:c4baffac1b8ba6c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://fblogindemo-9ac31.firebaseio.com</string>
+</dict>
+</plist>

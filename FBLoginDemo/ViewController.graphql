@@ -1,0 +1,15 @@
+query Restaurant{
+restaurant(
+query: {
+match: { name: { query: "目黒" }
+} }
+limit:10
+) {
+hits{_source{name,address}}
+count
+aggregations
+max_score
+took
+timed_out
+}
+}

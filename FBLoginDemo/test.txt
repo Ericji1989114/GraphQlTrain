@@ -1,0 +1,32 @@
+query {
+  profile(query: {term: {bodyType: {value: 99}}}) {
+    hits {
+      _source {
+        identityId
+        bloodType
+        photos {
+          photo {
+            type
+            url
+            urlType1
+            urlType2
+            approval
+            path
+          }
+          stamp {
+            use
+          }
+          cover {
+            type
+            path
+          }
+        }
+      }
+    }
+    count
+    aggregations
+    max_score
+    took
+    timed_out
+  }
+}
